@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamakashankara.sanchaya.net/sitemap.xml
